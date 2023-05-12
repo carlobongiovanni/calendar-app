@@ -1,0 +1,67 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "bio": {
+            "bsonType": "string"
+        },
+        "description": {
+            "bsonType": "string"
+        },
+        "github_issue": {
+            "bsonType": "string"
+        },
+        "id": {
+            "bsonType": "string"
+        },
+        "length": {
+            "bsonType": "string"
+        },
+        "name": {
+            "bsonType": "string"
+        },
+        "presenters": {
+            "bsonType": "string"
+        },
+        "scheduled_time": {
+            "bsonType": "string"
+        },
+        "session_length": {
+            "bsonType": "string"
+        },
+        "slack_channel": {
+            "bsonType": "string"
+        },
+        "slack_server": {
+            "bsonType": "string"
+        },
+        "tags": {
+            "bsonType": "object",
+            "properties": {
+                "env": {
+                    "bsonType": "string"
+                },
+                "theme": {
+                    "bsonType": "string"
+                }
+            }
+        },
+        "theme": {
+            "bsonType": "string"
+        },
+        "timestamp": {
+            "bsonType": "string"
+        },
+        "title": {
+            "bsonType": "string"
+        },
+        "version": {
+            "bsonType": "double"
+        },
+        "webex": {
+            "bsonType": "string"
+        }
+    },
+    "title": "conference"
+}
