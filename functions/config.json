@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "name": "autocompletePresenter",
+        "private": false
+    }
+]

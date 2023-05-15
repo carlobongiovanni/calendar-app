@@ -1,0 +1,9 @@
+{
+    "field_name": "autocompletePresenter",
+    "function_name": "autocompletePresenter",
+    "input_type": "string",
+    "input_type_format": "scalar",
+    "on_type": "Query",
+    "payload_type": "Conference",
+    "payload_type_format": "generated-list"
+}
